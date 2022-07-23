@@ -1,4 +1,27 @@
-.index h1{
-    color: rgb(106,106,106);
+.myTitle{
+    color: rgb(52, 96, 207);
     text-align: center;
+    background-color: rgb(180, 212, 180);
+}
+.h1{
+    color:violet;
+    }
+.h2{
+    color: indigo;
+}
+
+.h3{
+    color: blue;
+}
+
+.h4{
+    color: green;
+}
+
+.h5{
+    color: yellow;
+}
+
+.h6{
+    color: orange;
 }
